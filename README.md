@@ -30,12 +30,6 @@ The domains are:
 - Audio and Speech
 - Control (e.g. PID)
 
-Question: where do I put foundational backbones that can serve variosu domains ?
-- Transformers
-- State Space Models 
-they are both related to sequence modeling which can be applied to any of the app domains. so they are common.
-
-
 
 ## Programming and Tools
 links to various cheatsheets / templates that are useful
@@ -45,7 +39,8 @@ links to various cheatsheets / templates that are useful
     - etc.
 - Programming Languages
     - Python
-    - CUDA
+    - GPU and CUDA
+    - Pytorch
     - etc.
 
 
